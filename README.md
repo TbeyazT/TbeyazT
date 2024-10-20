@@ -13,6 +13,7 @@ I'm a software developer passionate about open-source projects, building innovat
 ### 📊 GitHub Stats:
 ![TbeyazT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TbeyazT&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TbeyazT&layout=compact&theme=dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TbeyazT&theme=react-dark)
 
 ### 📫 How to reach me:
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/tbeyaz_t)
