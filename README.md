@@ -8,7 +8,7 @@ I'm a software developer passionate about open-source projects, building innovat
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 
 ### 🚀 Featured Projects:
-- Nothing for now
+- [infinite data storage](https://github.com/TbeyazT/stealing-discords-data.git)
 
 ### 📊 GitHub Stats:
 ![TbeyazT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TbeyazT&show_icons=true&theme=dark)
