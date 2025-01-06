@@ -6,6 +6,7 @@ I'm a software developer passionate about open-source projects, building innovat
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
 
 ### 🚀 Featured Projects:
 - [infinite data storage](https://github.com/TbeyazT/stealing-discords-data.git)
