@@ -1,6 +1,7 @@
 # Hi there, I'm TbeyazT 👋
 
 I'm a software developer passionate about open-source projects, building innovative tools, and solving complex problems with code.
+i cant be active these days
 
 ### 🔧 Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
