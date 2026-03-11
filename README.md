@@ -19,3 +19,4 @@ i cant be active these days
 ### 📫 How to reach me:
 [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/tbeyaz_t)
 [![Email](https://img.shields.io/badge/Email-grey?logo=gmail&logoColor=white)](mailto:tbeyazzt@gmail.com)
+discord: tbeyazt
